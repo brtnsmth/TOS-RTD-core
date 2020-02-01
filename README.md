@@ -1,7 +1,7 @@
 # TOS-RTD-core
 framework for collecting real time stock price data from ThinkorSwim
 
-###Context
+### Context
 
 There is a lot of buzz about institutional algorithmic trading on the stock market. There is also great interest in machine learning (here obviously). As an absolute beginner in ML with an interest in stock trading, I went looking for a dataset that I could use. 
 
